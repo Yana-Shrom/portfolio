@@ -10,5 +10,5 @@ import { ModHeaderModule } from './modules/mod-header/mod-header.module';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'portfolio';
+  title = 'Salue';
 }
